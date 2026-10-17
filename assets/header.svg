@@ -208,7 +208,7 @@
 </g>
 <text class="f" style="animation-delay:.2s" x="72" y="92" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="20" fill="#22d3ee">&lt;GenAI Developer /&gt;</text>
 <text class="s" style="animation-delay:.5s" x="70" y="172" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="68" font-weight="800" fill="url(#tg)" filter="url(#glow)">Samarth Choudhar</text>
-<text class="f" style="animation-delay:1.1s" x="73" y="218" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" fill="#cbd5e1">Data Scientist  •  AI & ML Engineer</text>
+<text class="f" style="animation-delay:1.1s" x="73" y="218" font-family="'Segoe UI', Helvetica, Arial, sans-serif" font-size="25" fill="#cbd5e1">Data Scientist  •  AI &amp; ML Engineer</text>
 <text class="f" style="animation-delay:1.6s" x="73" y="258" font-family="'JetBrains Mono', Consolas, 'Courier New', monospace" font-size="18" fill="#94a3b8">RAG  ·  LangChain  ·  LLM Apps  ·  Python  ·  Pune, IN</text>
 <rect x="73" y="272" width="0" height="3" rx="2" fill="url(#tg)"><animate attributeName="width" from="0" to="420" dur="1.6s" begin="1.8s" fill="freeze"/></rect>
 </g>
