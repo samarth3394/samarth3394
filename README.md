@@ -70,21 +70,6 @@ FastAPI, Flask and Django services, containerised and cloud-ready.
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/samarth3394/Video-Background-Noice-Remover-Agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarth3394&repo=Video-Background-Noice-Remover-Agent&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee" width="48%" alt="Video Noise Remover"/></a>
-<a href="https://github.com/samarth3394/Sentiment-Analysis-"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarth3394&repo=Sentiment-Analysis-&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee" width="48%" alt="SentiViz"/></a>
-<a href="https://github.com/samarth3394/automated_resume_parser"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarth3394&repo=automated_resume_parser&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee" width="48%" alt="Resume Parser"/></a>
-<a href="https://github.com/samarth3394/medical-insurance-cost-predictor"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarth3394&repo=medical-insurance-cost-predictor&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee" width="48%" alt="Insurance Predictor"/></a>
-<a href="https://github.com/samarth3394/ai-chatbot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarth3394&repo=ai-chatbot&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee" width="48%" alt="AI Chatbot"/></a>
-<a href="https://github.com/samarth3394/employee-management-system"><img src="https://github-readme-stats.vercel.app/api/pin/?username=samarth3394&repo=employee-management-system&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee" width="48%" alt="Employee Management"/></a>
-
-</div>
-
-<img src="assets/divider.svg" width="100%" alt=""/>
-
 ## 📊 Developer Analytics
 
 <div align="center">
