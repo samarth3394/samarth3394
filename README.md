@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/header.svg" alt="Samarth Choudhar - GenAI Developer, Data Scientist, CTO" width="100%"/>
+<img src="assets/header.svg" alt="Samarth Choudhar - GenAI Developer, Data Scientist" width="100%"/>
 
 <br/>
 
@@ -11,7 +11,7 @@
 
 <br/><br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&height=40&lines=Building+production-grade+GenAI+systems;RAG+pipelines+%7C+LLM+apps+%7C+AI+agents;CTO+%40+Bharti+Nexus+Technologies;Let's+build+something+intelligent" alt="Typing"/></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=900&color=22D3EE&center=true&vCenter=true&width=760&height=40&lines=Building+production-grade+GenAI+systems;RAG+pipelines+%7C+LLM+apps+%7C+AI+agents;Data+Science+%7C+Machine+Learning;Let's+build+something+intelligent" alt="Typing"/></a>
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
@@ -70,20 +70,9 @@ FastAPI, Flask and Django services, containerised and cloud-ready.
 
 <img src="assets/divider.svg" width="100%" alt=""/>
 
-## 📊 Developer Analytics
-
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=samarth3394&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=22d3ee&count_private=true" alt="Stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarth3394&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa" alt="Top languages"/>
-
-<img src="https://streak-stats.demolab.com?user=samarth3394&theme=tokyonight&hide_border=true&background=0d1117&ring=22d3ee&fire=f472b6&currStreakLabel=a78bfa" alt="Streak"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=samarth3394&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" alt="Trophies"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=samarth3394&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&area_color=7c3aed" alt="Activity graph"/>
-
-### 🐍 Contribution Snake
+### 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samarth3394/samarth3394/output/github-snake-dark.svg"/>

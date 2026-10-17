@@ -65,19 +65,19 @@ header = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width
 </g>
 <text class="f" style="animation-delay:.2s" x="72" y="92" font-family="{MONO}" font-size="20" fill="#22d3ee">&lt;GenAI Developer /&gt;</text>
 <text class="s" style="animation-delay:.5s" x="70" y="172" font-family="{SANS}" font-size="68" font-weight="800" fill="url(#tg)" filter="url(#glow)">Samarth Choudhar</text>
-<text class="f" style="animation-delay:1.1s" x="73" y="218" font-family="{SANS}" font-size="25" fill="#cbd5e1">Data Scientist  •  CTO @ Bharti Nexus Technologies</text>
+<text class="f" style="animation-delay:1.1s" x="73" y="218" font-family="{SANS}" font-size="25" fill="#cbd5e1">Data Scientist  •  AI & ML Engineer</text>
 <text class="f" style="animation-delay:1.6s" x="73" y="258" font-family="{MONO}" font-size="18" fill="#94a3b8">RAG  ·  LangChain  ·  LLM Apps  ·  Python  ·  Pune, IN</text>
 <rect x="73" y="272" width="0" height="3" rx="2" fill="url(#tg)"><animate attributeName="width" from="0" to="420" dur="1.6s" begin="1.8s" fill="freeze"/></rect>
 </g>
 <rect x="1" y="1" width="{W-2}" height="{H-2}" rx="20" fill="none" stroke="#a78bfa" stroke-opacity=".35" stroke-width="2"/>
 </svg>'''
-open("assets/header.svg", "w").write(header)
+open("assets/header.svg", "w", encoding="utf-8").write(header)
 
 # ───────────────────────── TERMINAL ─────────────────────────
 FS, CW = 17, 17 * 0.6
 entries = [
     ("cmd", "whoami"),
-    ("out", "samarth :: GenAI Developer | Data Scientist | CTO"),
+    ("out", "samarth :: GenAI Developer | Data Scientist"),
     ("cmd", "cat focus.txt"),
     ("out", "LLM apps · RAG pipelines · AI agents · ML systems"),
     ("cmd", "./build --ship --production"),
@@ -130,7 +130,7 @@ terminal = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 {yc+40}"
 <text x="450" y="30" text-anchor="middle" font-family="{MONO}" font-size="14" fill="#8b949e">samarth@genai: ~/profile</text>
 {body}{cursor}
 </svg>'''
-open("assets/terminal.svg", "w").write(terminal)
+open("assets/terminal.svg", "w", encoding="utf-8").write(terminal)
 
 # ───────────────────────── SKILLS MARQUEE ─────────────────────────
 row1 = [("Python","#3776AB"),("LangChain","#1C9C6B"),("RAG","#a78bfa"),("LLMs","#f472b6"),("OpenAI API","#10a37f"),
@@ -161,7 +161,7 @@ skills = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 140" widt
 </defs>
 <g mask="url(#m)">{row(row1, 12, "l", 38)}{row(row2, 80, "r", 42)}</g>
 </svg>'''
-open("assets/skills.svg", "w").write(skills)
+open("assets/skills.svg", "w", encoding="utf-8").write(skills)
 
 # ───────────────────────── DIVIDER ─────────────────────────
 divider = '''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width="1200" role="presentation">
@@ -172,7 +172,7 @@ divider = '''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 24" width
 <rect x="0" y="11" width="1200" height="2" fill="url(#d)"/>
 <circle cy="12" r="5" fill="#fff" filter="url(#g)"><animate attributeName="cx" values="0;1200" dur="4s" repeatCount="indefinite"/><animate attributeName="fill" values="#22d3ee;#f472b6;#a78bfa;#22d3ee" dur="4s" repeatCount="indefinite"/></circle>
 </svg>'''
-open("assets/divider.svg", "w").write(divider)
+open("assets/divider.svg", "w", encoding="utf-8").write(divider)
 
 # ───────────────────────── RAG PIPELINE ─────────────────────────
 steps = [("Documents","PDF · Web · DB","#a78bfa"),("Chunk + Embed","LangChain","#22d3ee"),("Vector Store","FAISS · Chroma","#34d399"),
@@ -197,5 +197,5 @@ rag = f'''<svg xmlns="http://www.w3.org/2000/svg" viewBox="-20 0 1180 170" width
 <circle r="5" fill="#f472b6" filter="url(#g)"><animateMotion dur="6s" begin="-3s" repeatCount="indefinite"><mpath href="#p"/></animateMotion></circle>
 <text x="560" y="158" text-anchor="middle" font-family="{MONO}" font-size="13" fill="#64748b">retrieve  →  augment  →  generate</text>
 </svg>'''
-open("assets/rag-pipeline.svg", "w").write(rag)
+open("assets/rag-pipeline.svg", "w", encoding="utf-8").write(rag)
 print("ok")
